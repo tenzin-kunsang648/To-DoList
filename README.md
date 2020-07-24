@@ -1,2 +1,2 @@
-# To-DoList
+# To-Do List
 Learning the basics of JS 
