@@ -1,2 +1,2 @@
 # To-Do List
-Learning the basics of JS 
+A to-do list
